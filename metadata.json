@@ -1,0 +1,5 @@
+{
+  "name": "Credit Card Statement Parser",
+  "description": "An intelligent tool that uses AI to automatically extract key information from uploaded PDF credit card statements. Simply upload your statement, and the app will parse details like the issuer, due date, and total balance.",
+  "requestFramePermissions": []
+}
